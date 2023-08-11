@@ -13,7 +13,7 @@
 - Base has been fixed and improved by kim_jong_m (me)
 
 # Picture
-<a href="https://imgur.com/xZZg7pM"><img src="https://i.imgur.com/xZZg7pM.png" title="source: imgur.com" /></a>
+![alt text](https://i.imgur.com/xZZg7pM.png)
 
 # To do:
 - Add example changelog, detection status.
